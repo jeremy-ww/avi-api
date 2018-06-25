@@ -1,0 +1,31 @@
+{
+  "aliyun": {
+    "accessKeyId": "",
+    "accessKeySecret": "",
+    "bucket": "",
+    "region": ""
+  },
+  "tecent": {
+    "SecretId": "",
+    "SecretKey": "",
+    "Bucket": "",
+    "Region": ""
+  },
+  "qiniu": {
+    "accessKey": "",
+    "secretKey": "",
+    "bucket": "",
+    "domain": "https://p6qyfta9k.bkt.clouddn.com/"
+  },
+  "upyun": {
+    "domain": "https://vov-static.test.upcdn.net/",
+    "operator": "",
+    "password": "",
+    "bucket": ""
+  },
+  "amazon": {
+    "accessKeyId": "",
+    "accessKeySecret": "",
+    "bucket": ""
+  }
+}

@@ -1,0 +1,7 @@
+ecosystem.config.js
+config/*.json
+node_modules/
+data/
+*.log
+dist/
+.env*

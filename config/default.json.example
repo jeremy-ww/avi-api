@@ -1,0 +1,42 @@
+{
+  "PORT": 3000,
+  "CLIENT_DOMAIN": "https://avi.run",
+  "PROD_DOMAIN": "https://api.avi.run",
+  "LOCAL_DOMAIN": "http://localhost:3000",
+  "SMMS": {
+    "upload": "https://sm.ms/api/upload"
+  },
+  "GOOGLE": {
+    "userinfo": "https://www.googleapis.com/userinfo/v2/me",
+    "key": "",
+    "secret": ""
+  },
+  "IMGUR": {
+    "authorize": "https://api.imgur.com/oauth2/authorize",
+    "upload": "https://api.imgur.com/3/image",
+    "key": "",
+    "secret": ""
+  },
+  "FLICKR": {
+    "upload": "https://up.flickr.com/services/upload/",
+    "key": "",
+    "secret": ""
+  },
+  "OCR": {
+    "api": "https://api.ai.qq.com/fcgi-bin/ocr/ocr_generalocr",
+    "AppID": 10000,
+    "AppKey": ""
+  },
+  "FIREBASE": {
+    "type": "",
+    "project_id": "",
+    "private_key_id": "",
+    "private_key": "",
+    "client_email": "",
+    "client_id": "",
+    "auth_uri": "",
+    "token_uri": "",
+    "auth_provider_x509_cert_url": "",
+    "client_x509_cert_url": ""
+  }
+}
