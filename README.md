@@ -1,4 +1,4 @@
-# avi-api [![Build Status](https://img.shields.io/circleci/project/github/Army-U/avi-api.svg?style=flat-square)](https://circleci.com/gh/Army-U/avi-api) [![npm package](https://img.shields.io/npm/v/avi-api.svg?style=flat-square)](https://www.npmjs.com/package/avi-api)
+# avi-api [![Build Status](https://flat.badgen.net/circleci/github/Army-U/avi-api/master)](https://circleci.com/gh/Army-U/avi-api) [![npm package](https://flat.badgen.net/npm/v/avi-api)](https://www.npmjs.com/package/avi-api)
 
 > API services for avi.run https://api.avi.run/
 
