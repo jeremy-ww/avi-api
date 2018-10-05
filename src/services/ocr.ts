@@ -1,5 +1,5 @@
 import map2SearchString from 'sewing/dist/map2SearchString'
-import { TecentOCRResponse } from '../interfaces'
+import { TecentOCRResponse } from '../global'
 import * as config from 'config'
 import * as crypto from 'crypto'
 import axios from 'axios'

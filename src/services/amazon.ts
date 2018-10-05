@@ -1,4 +1,4 @@
-import { UploadFile, AmazonResponse } from '../interfaces'
+import { UploadFile, AmazonResponse } from '../global'
 import * as AWS from 'aws-sdk'
 import * as fs from 'fs'
 

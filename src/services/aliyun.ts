@@ -1,4 +1,4 @@
-import { UploadFile, AliyunResponse } from '../interfaces'
+import { UploadFile, AliyunResponse } from '../global'
 import { https } from '../utils/url'
 import * as oss from 'ali-oss'
 import * as co from 'co'

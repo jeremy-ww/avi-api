@@ -1,4 +1,4 @@
-import { UploadFile, ImgurResponse } from '../interfaces'
+import { UploadFile, ImgurResponse } from '../global'
 import * as FormData from 'form-data'
 import * as config from 'config'
 import axios from 'axios'

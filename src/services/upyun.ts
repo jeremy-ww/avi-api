@@ -1,4 +1,4 @@
-import { UploadFile, UpyunResponse } from '../interfaces'
+import { UploadFile, UpyunResponse } from '../global'
 import * as upyun from 'upyun'
 import * as url from 'url'
 import * as fs from 'fs'

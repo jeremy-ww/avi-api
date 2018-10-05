@@ -1,4 +1,4 @@
-import { UploadFile, UploadType, UploadServicesMaping } from '../interfaces'
+import { UploadFile, UploadType, UploadServicesMaping } from '../global'
 import isEmpty from 'sewing/dist/isEmptyValueObj'
 import uniqFileName from '../utils/uniqFileName'
 import download from '../utils/download'

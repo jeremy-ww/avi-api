@@ -1,4 +1,4 @@
-import { UploadFile } from '../interfaces'
+import { UploadFile } from '../global'
 import * as uuid from 'uuid/v4'
 import * as path from 'path'
 import axios from 'axios'

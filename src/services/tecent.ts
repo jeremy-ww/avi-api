@@ -1,4 +1,4 @@
-import { UploadFile, TecentResponse } from '../interfaces'
+import { UploadFile, TecentResponse } from '../global'
 import * as COS from 'cos-nodejs-sdk-v5'
 import { https } from '../utils/url'
 

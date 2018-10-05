@@ -1,4 +1,4 @@
-import { UploadFile, QiniuResponse } from '../interfaces'
+import { UploadFile, QiniuResponse } from '../global'
 import * as qiniu from 'qiniu'
 import * as url from 'url'
 import * as fs from 'fs'

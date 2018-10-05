@@ -1,4 +1,4 @@
-import { UploadFile, SmmsResponse } from '../interfaces'
+import { UploadFile, SmmsResponse } from '../global'
 import * as FormData from 'form-data'
 import * as config from 'config'
 import axios from 'axios'

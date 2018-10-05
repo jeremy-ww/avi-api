@@ -1,4 +1,4 @@
-import { UploadFile } from '../interfaces'
+import { UploadFile } from '../global'
 import * as fs from 'fs'
 
 export default (file: UploadFile | undefined) => {

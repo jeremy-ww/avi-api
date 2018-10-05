@@ -1,4 +1,4 @@
-import { UploadFile, FlickrResponse, FlickrSize } from '../interfaces'
+import { UploadFile, FlickrResponse, FlickrSize } from '../global'
 import * as Flickr from 'flickrapi'
 import * as config from 'config'
 
