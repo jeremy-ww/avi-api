@@ -4,7 +4,7 @@
   "description": "The easiest way to upload images, Compatible with numerous cloud storage.",
   "main": "dist/index.js",
   "scripts": {
-    "start": "pm2 restart dist/index.js",
+    "start": "NODE_ENV=production pm2 start dist/index.js --no-daemon",
     "deploy": "pm2 deploy production update",
     "dev": "nodemon -w src -x ts-node index.ts",
     "build": "rm -rf dist/ && tsc",
